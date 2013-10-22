@@ -1,0 +1,13 @@
+name = GetLocations Map
+description = "Provides Field module integration for a Getlocations map."
+core = 7.x
+php = 5
+package = Fields
+dependencies[] = getlocations
+
+; Information added by drupal.org packaging script on 2013-08-26
+version = "7.x-1.9"
+core = "7.x"
+project = "getlocations"
+datestamp = "1377538292"
+

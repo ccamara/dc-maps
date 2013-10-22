@@ -1,0 +1,15 @@
+name = Getlocations Blocks
+description = Provides some blocks to help with getlocations_fields Views.
+core = 7.x
+package = "Location"
+php = 5
+dependencies[] = getlocations_fields
+dependencies[] = views
+dependencies[] = block
+
+; Information added by drupal.org packaging script on 2013-08-26
+version = "7.x-1.9"
+core = "7.x"
+project = "getlocations"
+datestamp = "1377538292"
+

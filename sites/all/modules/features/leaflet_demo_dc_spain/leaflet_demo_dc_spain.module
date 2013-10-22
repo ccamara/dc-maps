@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Leaflet Demo feature.
+ */
+
+include_once 'leaflet_demo_dc_spain.features.inc';

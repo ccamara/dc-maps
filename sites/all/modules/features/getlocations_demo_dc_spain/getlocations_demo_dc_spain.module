@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Getlocations Demo feature.
+ */
+
+include_once 'getlocations_demo_dc_spain.features.inc';

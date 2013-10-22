@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Openlayers demo feature.
+ */
+
+include_once 'openlayers_demo.features.inc';

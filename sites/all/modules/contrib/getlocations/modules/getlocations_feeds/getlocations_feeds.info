@@ -1,0 +1,15 @@
+name = Getlocations Feeds
+description = Provides getlocations_fields mappers for feed importers
+core = 7.x
+dependencies[] = feeds
+dependencies[] = getlocations_fields
+package = Feeds
+
+
+
+; Information added by drupal.org packaging script on 2013-08-26
+version = "7.x-1.9"
+core = "7.x"
+project = "getlocations"
+datestamp = "1377538292"
+

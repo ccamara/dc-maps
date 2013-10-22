@@ -1,0 +1,12 @@
+name = Leaflet Label
+description = Integration with the Leaflet Label plugin
+core = 7.x
+dependencies[] = libraries
+dependencies[] = leaflet
+
+; Information added by drupal.org packaging script on 2013-09-30
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "leaflet_label"
+datestamp = "1380584757"
+
