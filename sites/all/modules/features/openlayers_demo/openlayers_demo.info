@@ -5,6 +5,7 @@ package = DC Spain 2013 Demo
 dependencies[] = ctools
 dependencies[] = mapping_demo_
 dependencies[] = openlayers
+dependencies[] = openlayers_ui
 dependencies[] = openlayers_views
 dependencies[] = views
 dependencies[] = views_ui
